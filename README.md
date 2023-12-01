@@ -1,3 +1,3 @@
-# my-first-code-in-cpp
+# Learning-C++
 
 Just simplely code

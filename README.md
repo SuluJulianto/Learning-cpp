@@ -1,3 +1,3 @@
-# Learning-C++
+# Learning C++
 
 Just simplely code

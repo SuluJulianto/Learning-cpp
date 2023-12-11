@@ -233,7 +233,7 @@ void CubeHandler::decrypt() {
 int main() {
     srand(static_cast<unsigned int>(time(nullptr)));
 
-    cout << "Thank you so much!\n It was such a fun and challenging assigment.\nHappy coding to all, and congrats to the other codes" << endl << endl;
+    cout << "Thank you so much and Happy coding to all!" << endl << endl;
 
     string word = "";
     getline(cin, word);
